@@ -1,0 +1,11 @@
+C:\Users\crige\desktop\csharp\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.deps.json
+C:\Users\crige\desktop\csharp\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.runtimeconfig.json
+C:\Users\crige\desktop\csharp\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.runtimeconfig.dev.json
+C:\Users\crige\desktop\csharp\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.dll
+C:\Users\crige\desktop\csharp\CoreEscuela\bin\Debug\netcoreapp2.2\CoreEscuela.pdb
+C:\Users\crige\desktop\csharp\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.csprojAssemblyReference.cache
+C:\Users\crige\desktop\csharp\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\crige\desktop\csharp\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\crige\desktop\csharp\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.AssemblyInfo.cs
+C:\Users\crige\desktop\csharp\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.dll
+C:\Users\crige\desktop\csharp\CoreEscuela\obj\Debug\netcoreapp2.2\CoreEscuela.pdb
